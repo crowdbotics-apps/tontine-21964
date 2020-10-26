@@ -1,5 +1,6 @@
 export const installed_blueprints = [
   //@BlueprintInsertion
+{ name: 'Maps161776', human_name: 'Maps', access_route: 'Maps161776', icon: 'map'},
 { name: 'Add-Item161775', human_name: 'Add-item', access_route: 'Add-Item161775'},
 { name: 'Maps161771', human_name: 'Maps', access_route: 'Maps161771', icon: 'map'},
 { name: 'UserProfile161767', human_name: 'User Profile', access_route: 'UserProfile161767'},
