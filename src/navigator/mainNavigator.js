@@ -32,7 +32,6 @@ import CopyOfBlankScreen3161619Navigator from '../features/CopyOfBlankScreen3161
 import CopyOfBlankScreen3161618Navigator from '../features/CopyOfBlankScreen3161618/navigator';
 import BlankScreen4161617Navigator from '../features/BlankScreen4161617/navigator';
 import SignIn11161615Navigator from '../features/SignIn11161615/navigator';
-import UserProfile3161613Navigator from '../features/UserProfile3161613/navigator';
 
 /**
  * new navigators can be imported here
@@ -68,7 +67,6 @@ CopyOfBlankScreen3161619: { screen: CopyOfBlankScreen3161619Navigator },
 CopyOfBlankScreen3161618: { screen: CopyOfBlankScreen3161618Navigator },
 BlankScreen4161617: { screen: BlankScreen4161617Navigator },
 SignIn11161615: { screen: SignIn11161615Navigator },
-UserProfile3161613: { screen: UserProfile3161613Navigator },
 
     /** new navigators can be added here */
     SplashScreen: {
